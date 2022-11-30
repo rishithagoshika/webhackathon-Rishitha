@@ -1,0 +1,21 @@
+body
+{
+    background-color:#F8C4B4;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.texth1
+{
+color: rgb(26, 6, 50); 
+text-align: center;
+font-size: 30px;
+
+}
+.text1{
+    text-align: center;
+}
+#Healthy{
+    /* font-family: cursive; */
+    font-size: 25px;
+    color:#223b0c;
+}
